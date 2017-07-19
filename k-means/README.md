@@ -9,8 +9,8 @@ Python实现的K-Means算法。
 ### 2、使用
 将```KMeans.py```放入环境变量包含的的目录内，导入模块，输入样本集合，调用kmeans函数即可。
 kmeans函数有两个参数：
-* k, 选取的聚类数量
-* sample_set, 样本集合
+* ```k```, 选取的聚类数量
+* ```sample_set```, 样本集合
 ```
 import KMeans
 
